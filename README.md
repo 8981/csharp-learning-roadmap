@@ -69,9 +69,8 @@ This document contains a simplified list of concepts to guide new developers thr
 With a solid understanding of the language features of C#, the .NET ecosystem has many options for your next path:
 
 - Web Developer (.NET Core) : [Nick Chapsas - My .NET backend developer roadmap for 2022](https://www.youtube.com/watch?v=gw-6lKrKlp0)
-- Data Engineer (Machine Learning with ML.NET) : [ML.NET Home](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
 
-| Web Developer (.NET Core) | Data Engineer (Machine Learning with ML.NET) |
-|:---:|:---:|
+| Web Developer (.NET Core) |
+|:---:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100px" alt=".NET Core Logo"/> | 
-| [Nick Chapsas - My .NET backend developer roadmap for 2022](https://www.youtube.com/watch?v=gw-6lKrKlp0)| <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Mldotnet.svg" width="100px" alt="ML.NET Logo"/> | [Microsoft - ML.NET Home](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
+| [Nick Chapsas - My .NET backend developer roadmap for 2022](https://www.youtube.com/watch?v=gw-6lKrKlp0)|
