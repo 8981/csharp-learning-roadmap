@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="Bi8yQc8i4gSCwa7ISA3M" name="Page-1">
-        <mxGraphModel dx="4216" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="811" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -450,7 +450,7 @@
                 <mxCell id="132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="133" target="134" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <UserObject label="&lt;a href=&quot;https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world&quot;&gt;Basic Syntax&lt;/a&gt;" linkTarget="_blank" id="133">
+                <UserObject label="&lt;a href=&quot;https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world&quot;&gt;Basic Syntax&lt;/a&gt;" linkTarget="_blank" link="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world" id="133">
                     <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
                         <mxGeometry x="388" y="1200" width="100" height="50" as="geometry"/>
                     </mxCell>
